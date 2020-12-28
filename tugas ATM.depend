@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495086532 source:d:\praktikum\khafid durrahman_32601601049\tugas atm\main.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+
